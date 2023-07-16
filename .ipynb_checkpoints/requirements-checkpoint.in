@@ -1,0 +1,5 @@
+# list all the libraries used in your project
+
+jupyter
+ipykernel 
+jupyterlab

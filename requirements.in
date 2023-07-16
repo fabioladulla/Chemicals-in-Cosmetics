@@ -1,5 +1,9 @@
-# list all the libraries used in your project
+#libraries used in the project
 
 jupyter
 ipykernel 
 jupyterlab
+pandas
+numpy
+matplotlib
+seaborn
